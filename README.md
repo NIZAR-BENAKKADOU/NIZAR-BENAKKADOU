@@ -74,8 +74,7 @@ Un système de gestion classique en **PHP** et **MySQL** pour automatiser les pr
 
 ---
 
-[![Nizar Benakkadou @ ISGA](https://img.shields.io/badge/Nizar_Benakkadou-ISGA-ED1C24?style=for-the-badge)](https://www.linkedin.com/in/nizar-benakkadou-2bb541311/)
-
+[![NIZAR BENAKKADOU](https://img.shields.io/badge/ISGA_Student-Software_Engineer_in_Training-ED1C24?style=social&logo=github)](https://github.com/NIZAR-BENAKKADOU)
 ## 🤝 Parlons-en !
 
 Je suis toujours ouvert à de nouveaux défis, à des collaborations ou simplement à une discussion sur les nouvelles technos.
