@@ -73,13 +73,16 @@ Un système de gestion optimisé pour automatiser les prêts, les retours et la 
 
 <div align="center">
 
-## 📈 Mon Pouls GitHub
+<div align="center">
 
-| Statistiques Globales | Langages Favoris |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="400" /> |
+## 📊 Activité GitHub
+
+| GitHub Stats | Contribution Streak | Top Languages |
+|:---:|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="250"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIZAR-BENAKKADOU&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" width="250"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="250"/> |
 
 </div>
+
 
 
 ### 🤝 Parlons-en !
