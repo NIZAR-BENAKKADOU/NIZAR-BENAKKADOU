@@ -77,7 +77,25 @@ Un système de gestion optimisé pour automatiser les prêts, les retours et la 
 
 | Statistiques Globales | Langages Favoris |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=aura&langs_count=8&hide_border=true&bg_color=0d1117" width="400" /> |
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NIZAR-BENAKKADOU&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117" width="400" /> |
+
+<br/>
+
+### 🔥 Série de Contributions
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIZAR-BENAKKADOU&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<br/>
+
+### 🏆 Trophées GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=NIZAR-BENAKKADOU&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+
+<br/>
+
+### 📊 Graphique d'Activité
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIZAR-BENAKKADOU&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%" />
 
 <br/>
 
