@@ -77,9 +77,10 @@ Un système de gestion optimisé pour automatiser les prêts, les retours et la 
 
 | Statistiques Globales | Langages Favoris |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=aura&langs_count=8&hide_border=true&bg_color=0d1117" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117&cache_seconds=1800" width="400" /> |
 
-<br/>
+</div>
+
 
 ### 🤝 Parlons-en !
 
