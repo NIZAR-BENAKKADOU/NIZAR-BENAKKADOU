@@ -10,7 +10,7 @@
 
 <br/>
 
-> Développeur passionné, je fais le pont entre une logique back-end complexe et des interfaces utilisateur intuitives. Mon expertise en **Laravel** et **React** me permet de construire des applications performantes, scalables et qui résolvent de vrais problèmes.
+> Développeur passionné, je fais le pont entre une logique back-end complexe et des interfaces utilisateur intuitives. Mon expertise en **Laravel** et **React** me permet de construire des applications web robustes et élégantes.
 
 ---
 
@@ -73,17 +73,26 @@ Un système de gestion optimisé pour automatiser les prêts, les retours et la 
 
 <div align="center">
 
-<div align="center">
-
 ## 📊 Activité GitHub
 
-| GitHub Stats | Contribution Streak | Top Languages |
-|:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="250"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIZAR-BENAKKADOU&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" width="250"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="250"/> |
+<img src="https://github-readme-stats.vercel.app/api?username=NIZAR-BENAKKADOU&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIZAR-BENAKKADOU&theme=tokyonight&hide_border=true&background=0D1117" width="400"/>
 
+### 🚀 Langages les Plus Utilisés
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIZAR-BENAKKADOU&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10" width="320"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIZAR-BENAKKADOU&theme=tokyonight" width="320"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIZAR-BENAKKADOU&theme=tokyonight" width="320"/>
+
+---
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIZAR-BENAKKADOU&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="800"/>
+
+---
 
 ### 🤝 Parlons-en !
 
