@@ -117,6 +117,58 @@ Internal tool to simplify tracking, project management, task assignment, and eva
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🌐 NIZAR-PORTFOLIO
+**Personal Portfolio Website**
+
+Modern, multilingual portfolio website showcasing skills and projects with smooth animations and responsive design.
+
+**Tech:** React • TypeScript • TailwindCSS • Vite
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/NIZAR-BENAKKADOU/NIZAR-PORTFOLIO)
+
+</td>
+<td width="50%">
+
+### 👨‍🎓 StudentHub
+**Student Management System**
+
+Comprehensive student management application with modern UI, featuring student records, course management, and administrative tools.
+
+**Tech:** Java • Spring Boot • Thymeleaf • CSS
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/NIZAR-BENAKKADOU/GESTION_Etudian)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 1337 Pool
+**Coding School Exercises**
+
+Collection of C programming exercises and algorithms from 1337 coding school, covering system programming fundamentals.
+
+**Tech:** C • Unix • Shell • Algorithms
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/NIZAR-BENAKKADOU/1337)
+
+</td>
+<td width="50%">
+
+### 📢 Annonces
+**Classifieds Platform**
+
+Full-featured classifieds and announcements platform with user authentication, posting management, and search functionality.
+
+**Tech:** Laravel • PHP • MySQL • Blade
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/NIZAR-BENAKKADOU/annonces)
+
+</td>
+</tr>
 </table>
 
 </div>
