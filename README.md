@@ -52,50 +52,6 @@ Git • GitHub • Gradle • GNU Make • REST APIs • MVC • Clean Architect
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏟️ KOORA.MA — StadiuGo  
-Football field booking platform with real-time slot management and premium dark UI.  
-**Tech:** Laravel • React • MySQL • TailwindCSS  
-🔗 https://github.com/NIZAR-BENAKKADOU/FIELD-RESERVATIONS  
-
----
-
-### 🎓 Gestion Étudiants  
-Academic management system with multi-role authentication and secure access control.  
-**Tech:** Java • Spring Boot • Spring Security • Thymeleaf  
-🔗 https://github.com/NIZAR-BENAKKADOU/GESTION_Etudian  
-
----
-
-### 🛒 ElectroStore  
-E-commerce platform with clean MVC architecture and dynamic cart management.  
-**Tech:** Laravel • Blade • JavaScript • MySQL  
-🔗 https://github.com/NIZAR-BENAKKADOU/e-commerce  
-
----
-
-### 👩‍💼 Employee Manager  
-Professional WPF desktop application for employee lifecycle management.  
-**Tech:** C# • WPF • .NET  
-🔗 https://github.com/NIZAR-BENAKKADOU/GESTION_EMPLOYE  
-
----
-
-### 🔌 IP Analyzer & Subnet Calculator  
-CLI networking tool for IPv4 analysis, subnetting, and network calculations.  
-**Tech:** C++17 • Standard Library  
-🔗 https://github.com/NIZAR-BENAKKADOU/IP-Address-Analyzer-Subnet-Calculator  
-
----
-
-### 🌐 Personal Portfolio  
-Modern portfolio built with React ecosystem and Supabase backend.  
-**Tech:** React • TypeScript • Vite • Supabase  
-🔗 https://github.com/NIZAR-BENAKKADOU/NIZAR-PORTFOLIO  
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to:
